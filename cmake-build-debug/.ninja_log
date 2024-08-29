@@ -1,0 +1,14 @@
+# ninja log v6
+530	573	1723757753488484368	ForInARowExtention	9bc36f951715ce1a
+3	425	1723729802310504505	CMakeFiles/ForInARowExtention.dir/forInARowGame.cpp.o	1d06892aebfea35e
+2	530	1723757752960491634	CMakeFiles/ForInARowExtention.dir/main.cpp.o	a2ab9d2a9ddd0e4
+0	26	1724962115170667254	build.ninja	17d1d8814271afdc
+1	353	1724962166659708125	CMakeFiles/ForInARowExtention.dir/forInARowGame.cpp.o	1d06892aebfea35e
+2	564	1724962166660708067	CMakeFiles/ForInARowExtention.dir/main.cpp.o	a2ab9d2a9ddd0e4
+564	604	1724962167222675657	ForInARowExtention	9bc36f951715ce1a
+2	542	1724962270267698675	CMakeFiles/ForInARowExtention.dir/main.cpp.o	a2ab9d2a9ddd0e4
+542	582	1724962270807667200	ForInARowExtention	9bc36f951715ce1a
+2	532	1724962298413056228	CMakeFiles/ForInARowExtention.dir/main.cpp.o	a2ab9d2a9ddd0e4
+532	573	1724962298943025267	ForInARowExtention	9bc36f951715ce1a
+1	527	1724962328464298763	CMakeFiles/ForInARowExtention.dir/main.cpp.o	a2ab9d2a9ddd0e4
+527	573	1724962328990267972	ForInARowExtention	9bc36f951715ce1a

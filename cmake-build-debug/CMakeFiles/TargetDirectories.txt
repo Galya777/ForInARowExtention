@@ -1,0 +1,3 @@
+/home/galya777/CLionProjects/ForInARowExtention/cmake-build-debug/CMakeFiles/ForInARowExtention.dir
+/home/galya777/CLionProjects/ForInARowExtention/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/galya777/CLionProjects/ForInARowExtention/cmake-build-debug/CMakeFiles/rebuild_cache.dir
